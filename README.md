@@ -1,1 +1,2 @@
-# cs50_Course
+# Barinuadum Bariyiga
+# Havard_IntroComputerScience_cS50
